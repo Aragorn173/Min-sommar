@@ -1,0 +1,14 @@
+body{
+    align-items: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
+
+.center{
+    text-align: center;
+}
